@@ -1,4 +1,4 @@
-package sov
+package indyclient
 
 import (
 	"crypto/ed25519"
